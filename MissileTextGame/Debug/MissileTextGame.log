@@ -1,3 +1,3 @@
 ﻿  main.cpp
-d:\play programming\missiletextgame\missiletextgame\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  MissileTextGame.vcxproj -> D:\Play Programming\MissileTextGame\Debug\MissileTextGame.exe
+c:\users\c00224660\desktop\missile\missiletextgame\missiletextgame\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MissileTextGame.vcxproj -> C:\Users\C00224660\Desktop\missile\MissileTextGame\Debug\MissileTextGame.exe
